@@ -8,6 +8,17 @@ The system monitors network traffic in real time, detects anomalies such as port
 
 All threat analysis is performed locally using Ollama and local LLMs, ensuring that sensitive network data is not sent to external cloud services.
 
+![Python](https://img.shields.io/badge/python-3.12+-blue)
+![Streamlit](https://img.shields.io/badge/streamlit-dashboard-red)
+![Ollama](https://img.shields.io/badge/AI-ollama-black)
+![LLM](https://img.shields.io/badge/model-mistral-purple)
+![Scapy](https://img.shields.io/badge/network-scapy-green)
+![SQLite](https://img.shields.io/badge/database-sqlite-blue)
+![Cybersecurity](https://img.shields.io/badge/cybersecurity-threat_analysis-darkred)
+![Local AI](https://img.shields.io/badge/AI-local_processing-orange)
+![Security](https://img.shields.io/badge/security-local_monitoring-brightgreen)
+![License](https://img.shields.io/badge/license-educational-lightgrey)
+
 
 <img width="1401" height="563" alt="image" src="https://github.com/user-attachments/assets/20dd71f0-484b-4f1a-bdc5-ebf275a56791" />
 
