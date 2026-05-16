@@ -8,6 +8,10 @@ The system monitors network traffic in real time, detects anomalies such as port
 
 All threat analysis is performed locally using Ollama and local LLMs, ensuring that sensitive network data is not sent to external cloud services.
 
+
+<img width="1401" height="563" alt="image" src="https://github.com/user-attachments/assets/20dd71f0-484b-4f1a-bdc5-ebf275a56791" />
+
+
 ---
 
 ## Features
