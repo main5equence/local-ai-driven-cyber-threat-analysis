@@ -258,17 +258,8 @@ local-ai-cyber-threat-analysis/
 │       └── threat_simulator.py
 │
 ├── playbooks/
-│   ├── brute_force.json
-│   ├── dns_tunneling.json
-│   ├── malware_traffic.json
-│   ├── port_scan.json
-│   └── suspicious_traffic.json
-│
-├── screenshots/
-│   ├── dashboard.png
-│   ├── packet_sniffer.png
-│   ├── ai_analysis.png
-│   └── architecture_diagram.png
+│   └── port_scan.json
+│   
 │
 ├── .gitignore
 ├── README.md
