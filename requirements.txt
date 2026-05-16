@@ -1,0 +1,9 @@
+scapy
+requests
+rich
+ollama
+streamlit
+plotly
+pandas
+sqlalchemy
+psutil
