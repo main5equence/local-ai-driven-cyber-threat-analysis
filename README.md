@@ -384,8 +384,7 @@ nmap 127.0.0.1
 
 
 ## Educational Purpose
-This project was created for educational and research purposes related to cybersecurity, AI-powered threat analysis, and local LLM integration. Project was developed as part of the SheCODE:ME Cyber Academy within the CODE:ME Shell Scholarship Programme for Women, focused on developing practical skills in cybersecurity, AI, and dual-use modern technologies.
-
+This project was created for educational and research purposes related to cybersecurity, AI-powered threat analysis, and local LLM integration. 
 
 ## Important
 Always use the monitoring and packet analysis features responsibly and only on networks you own or are authorized to test.
