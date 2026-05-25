@@ -90,7 +90,7 @@ Alerts are stored locally inside the `alerts/` directory and can be used for:
 Example generated alert file:
 
 ```text
-alerts/PORT_SCAN_192.168.0.15.json
+alerts/PORT_SCAN_192.168.X.X.json
 ```
 
 <img width="410" height="42" alt="Zrzut ekranu 2026-05-15 132806" src="https://github.com/user-attachments/assets/eee52081-4aaa-42ec-b4de-1310183273b5" />
@@ -388,25 +388,5 @@ This project was created for educational and research purposes related to cybers
 
 ## Important
 Always use the monitoring and packet analysis features responsibly and only on networks you own or are authorized to test.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
