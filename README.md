@@ -357,7 +357,12 @@ python setup_db.py
 ```
 ---
 
-## Running the Project
+## Running the Projectx
+
+Start Ollama Mistral 
+```
+ollama run mistral
+```
 
 Start Streamlit dashboard
 ```
@@ -379,7 +384,7 @@ python -m app.main
 
 Generate real port scan test
 ```
-nmap 127.0.0.1
+nmap localhost
 ```
 
 
