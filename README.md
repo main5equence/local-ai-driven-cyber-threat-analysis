@@ -137,6 +137,9 @@ The entire analysis process is performed locally without sending network data to
 <img width="1906" height="623" alt="Zrzut ekranu 2026-05-15 152036" src="https://github.com/user-attachments/assets/5ae7257d-0ab3-467c-8302-c90b3d87d6ca" />
 
 
+
+
+
 AI Analysis Workflow
 
 ```text
@@ -225,8 +228,7 @@ No traffic data or incidents are sent to external AI providers or cloud services
 <img width="467" height="513" alt="Zrzut ekranu 2026-05-15 134154" src="https://github.com/user-attachments/assets/1766d26d-ddd1-42e7-acd9-9b9d839c5c53" />
 
 
-<img width="1780" height="842" alt="Zrzut ekranu 2026-05-15 140300" src="https://github.com/user-attachments/assets/5f7b8af6-f72d-4b84-b44e-d5156d7a85e8" />
-
+<img width="1258" height="873" alt="image" src="https://github.com/user-attachments/assets/715a50df-02a7-4948-b004-65d0a79bb2dc" />
 
 
 
