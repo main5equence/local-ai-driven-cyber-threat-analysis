@@ -107,22 +107,6 @@ Example JSON structure:
 }
 ```
 
-Alert Workflow
-
-```
-Network Traffic
-      ↓
-Threat Detection
-      ↓
-JSON Alert Generation
-      ↓
-AI Threat Analysis
-      ↓
-SQLite Database
-      ↓
-Streamlit Dashboard
-```
-
 The generated alert is then analyzed by the local AI model running through Ollama and displayed in the Streamlit dashboard together with threat analytics and severity information.
 
 ---
@@ -141,24 +125,6 @@ The entire analysis process is performed locally without sending network data to
 
 
 AI Analysis Workflow
-
-```text
-Threat Detection
-      ↓
-JSON Alert Generated
-      ↓
-Prompt Creation
-      ↓
-Ollama Local LLM Analysis
-      ↓
-Threat Severity Evaluation
-      ↓
-Security Recommendations
-      ↓
-SQLite Database
-      ↓
-Streamlit Dashboard
-```
 
 Example AI Prompt
 
